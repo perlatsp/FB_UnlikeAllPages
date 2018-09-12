@@ -17,7 +17,7 @@ It will find DOM elements based on class name and trigger click events on approp
 **DISCLAIMER**: I am not responsible for missuse of the code or any non-desireable results you get.
 
 # TODO
- [x] Unlike All pages
- [ ] Error handling
- [ ] Unlike only selected pages
- [ ] Make browser extension ?
+- [x] Unlike All pages
+-  [ ] Error handling
+- [ ] Unlike only selected pages
+- [ ] Make browser extension ?
